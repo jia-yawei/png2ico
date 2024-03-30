@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'e:\vscode\py\png2ico\ui.ui'
+# Form implementation generated from reading ui file 'e:\vscode\py\png2ico\qt_png2ico\ui.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.9
 #
