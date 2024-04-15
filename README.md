@@ -35,3 +35,4 @@ if __name__ = '__main__':
 即可将ui文件转为py文件，之后可以将其删除，然后在control文件内设置回调函数，具体细节见源码，pyinstall进行打包，打包指令 ：
 
 ` pyinstaller --onefile --windowed --icon=myicon.ico --name=myprogram main.py`
+![统计访问次数](https://profile-counter.glitch.me/{ubrong}/count.svg)

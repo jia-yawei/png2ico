@@ -23,7 +23,7 @@ class Controller:
         #将文件名显示在label上
         self.ui.label_2.setText(name) 
     def convert_button_click(self):
-        #将png文件转换为ico格式，可以选择设置的尺寸，保存在当前目录下
+        #将png文件转换为ico格式，可以选择设置的尺寸，保存在当前目录
         img = Image.open(self.filename)
         #将文件名的后缀改为ico
 
